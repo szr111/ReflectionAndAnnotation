@@ -1,0 +1,5 @@
+# Project exclude paths
+/MyJunit/target/
+/Reflection_01/target/
+/Reflection_Test/target/
+/TestJunit/target/
